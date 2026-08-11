@@ -1,0 +1,12 @@
+# Ignore local database files
+chroma_db/
+
+# Ignore your personal documents
+my_docs/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore virtual environments (just in case you ever make one again)
+venv/
+.env
